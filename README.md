@@ -1,4 +1,4 @@
 # new-repository-tutorial
 this is my first repo
 <br>
-author name swatantra thakur
+author name- swatantra thakur
